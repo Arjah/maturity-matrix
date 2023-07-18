@@ -8,10 +8,10 @@
 <table>
     <thead>
         <tr>
-            <th>🔆  Уровень 0</th>
-            <th>⭐  Уровень 1</th>
-            <th>🌟  Уровень 2</th>
-            <th>💥  Уровень 3</th>
+            <th width=25%>🔆  Уровень 0</th>
+            <th width=25%>⭐  Уровень 1</th>
+            <th width=25%>🌟  Уровень 2</th>
+            <th width=25%>💥  Уровень 3</th>
         </tr>
     </thead>
     <tbody>
@@ -88,10 +88,10 @@
 <table>
     <thead>
         <tr>
-            <th>🔆  Уровень 0</th>
-            <th>⭐  Уровень 1</th>
-            <th>🌟  Уровень 2</th>
-            <th>💥  Уровень 3</th>
+            <th width=25%>🔆  Уровень 0</th>
+            <th width=25%>⭐  Уровень 1</th>
+            <th width=25%>🌟  Уровень 2</th>
+            <th width=25%>💥  Уровень 3</th>
         </tr>
     </thead>
     <tbody>
