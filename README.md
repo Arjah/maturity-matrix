@@ -37,7 +37,7 @@
           <td align="center">Тестирование идет на всех этапах SDLC. Тестирование не является "бутылочным горлышком" и не плетется в конце SDLC.</td>
         </tr>
         <tr>
-          <td colspan=4 align="left"><a href ="https://github.com/Arjah/maturity-matrix/blob/main/guides/qa.md#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%8F%D1%8E%D1%82%D1%81%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8-shift-left-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F"><b>3. Тестовые сценарии команды определены, их выполнение отслеживается (тест менеджмент)</b></a></td>
+          <td colspan=4 align="left"><a href ="https://github.com/Arjah/maturity-matrix/blob/main/guides/qa.md#%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B-%D0%B8%D1%85-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%81%D0%BB%D0%B5%D0%B6%D0%B8%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D1%82%D0%B5%D1%81%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82"><b>3. Тестовые сценарии команды определены, их выполнение отслеживается (тест менеджмент)</b></a></td>
         </tr>
         <tr>
           <td align="center">Тест-кейсы не описываются.</td>
@@ -46,7 +46,7 @@
           <td align="center">Не менее 80% тест-кейсов актуализированны и применяются в тестировании.</td>
         </tr>
         <tr>
-          <td colspan=4 align="left"><a href ="https://github.com/Arjah/maturity-matrix/blob/main/guides/qa.md#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%8F%D1%8E%D1%82%D1%81%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8-shift-left-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F"><b>4. Интеграция тестирования в процесс CI/CD	</b></a></td>
+          <td colspan=4 align="left"><a href ="https://github.com/Arjah/maturity-matrix/blob/main/guides/qa.md#%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81-cicd"><b>4. Интеграция тестирования в процесс CI/CD	</b></a></td>
         </tr>
         <tr>
           <td align="center">Планового покрытия тестами в команде нет.</td>
@@ -55,7 +55,7 @@
           <td align="center">Вся информация о результатах выполнения тестов выводится на дашборд, весь процесс регрессионного, интеграционного тестирования доступен в одном месте.</td>
         </tr>
         <tr>
-          <td colspan=4 align="left"><a href ="https://github.com/Arjah/maturity-matrix/blob/main/guides/qa.md#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%8F%D1%8E%D1%82%D1%81%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8-shift-left-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F"><b>5. Продукты покрыты автотестами	</b></a></td>
+          <td colspan=4 align="left"><a href ="https://github.com/Arjah/maturity-matrix/blob/main/guides/qa.md#5-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B-%D0%BF%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D1%8B-%D0%B0%D0%B2%D1%82%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B0%D0%BC%D0%B8"><b>5. Продукты покрыты автотестами	</b></a></td>
         </tr>
         <tr>
           <td align="center">Автотесты не применяются.</td>
@@ -64,7 +64,7 @@
           <td align="center">Больше 80% тест-кейсов автоматизированы.</td>
         </tr>
         <tr>
-          <td colspan=4 align="left"><a href ="https://github.com/Arjah/maturity-matrix/blob/main/guides/qa.md#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%8F%D1%8E%D1%82%D1%81%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8-shift-left-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F"><b>6. Команда умеет оценивать качество своего продукта и процессов (применение DoD)</b></a></td>
+          <td colspan=4 align="left"><a href ="https://github.com/Arjah/maturity-matrix/blob/main/guides/qa.md#6-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0-%D1%83%D0%BC%D0%B5%D0%B5%D1%82-%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D1%81%D0%B2%D0%BE%D0%B5%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0-%D0%B8-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-dod"><b>6. Команда умеет оценивать качество своего продукта и процессов (применение DoD)</b></a></td>
         </tr>
         <tr>
           <td align="center">Команда не оценивает качество своего продукта, не умеет оценивать.</td>
